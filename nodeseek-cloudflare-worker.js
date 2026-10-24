@@ -1,6 +1,6 @@
 // NodeSeek 签到 Cloudflare Worker
 // 使用 2captcha 解决 Turnstile 验证码
-//
+//加入新的内容
 // 环境变量配置：
 // user: 用户名，多个账户用&分割，如：user1&user2
 // pass: 密码，多个密码用&分割，如：pass1&pass2（与user一一对应）
